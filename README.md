@@ -6,3 +6,5 @@
 
 **Token**: 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
 
+使用PicGo上传图片要关掉 Steam++(Watt Toolkit)
+
